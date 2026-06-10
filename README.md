@@ -1,4 +1,4 @@
-# DSA Comeback 2026
+# DSA 
 
 This repository contains my Data Structures and Algorithms preparation journey.
 
